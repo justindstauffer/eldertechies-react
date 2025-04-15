@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 
 const welcome = () => {
   return (
-    <Container className="pb-5 text-center mx-auto d-flex flex-column justify-content-center align-items-center" style={{ backgroundColor: "#07273d"}} fluid>
+    <Container className="pb-5 text-center d-flex flex-column justify-content-center align-items-center" style={{ backgroundColor: "#07273d"}} fluid>
       {/* <h1 className="text-primary">Welcome to Elder Techies!</h1> */}
       <Image
         src={Logo}
