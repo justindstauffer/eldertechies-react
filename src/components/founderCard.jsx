@@ -19,7 +19,10 @@ const founderCard = () => {
           Hi, I’m Justin Stauffer, founder of Elder Techies. We help seniors stay
           connected, safe, and confident with their technology. From setting up
           new devices to teaching how to use them, we make technology simple and
-          friendly. Consultations and remote help available. Email us: justin@eldertechies.com to schedule today!
+          friendly. Consultations and remote help available.
+        </p>
+        <p>
+          Email us: justin@eldertechies.com to schedule today!
         </p>
       </div>
     </Container>

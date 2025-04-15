@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <NavigationBar />
+      {/* <NavigationBar /> */}
       <Welcome />
       <FounderCard />
       <ServiceCards />
