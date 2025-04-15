@@ -13,7 +13,7 @@ const welcome = () => {
         className="rounded-circle"
         style={{ width: "35%", height: "35%" }}
       />
-      <h1 style={{color: "#6dd0cc"}}>We Turn Elders Into Techies</h1>
+      <h1 style={{color: "#6dd0cc"}}>Turning Elders Into Techies</h1>
     </Container>
   );
 };
